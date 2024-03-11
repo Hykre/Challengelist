@@ -1,7 +1,18 @@
 [
   {
-    "name": "lost",
+    "name": "Lucy",
     "place": "1",
+    "id": "766",
+    "creators": "hexeract",
+    "verifier": "hexeract",
+    "video": "https://www.youtube.com/watch?v=Izy5jNs6Qf8",
+    "victors": [
+      "hexeract"
+    ]
+  },
+  {
+    "name": "lost",
+    "place": "2",
     "id": "279",
     "creators": "soley",
     "verifier": "soley",
@@ -12,8 +23,19 @@
     ]
   },
   {
+    "name": "s0ley chall",
+    "place": "3",
+    "id": "230",
+    "creators": "Lodomir",
+    "verifier": "Lodomir",
+    "video": "https://www.youtube.com/watch?v=5UKh2miNUbM",
+    "victors": [
+      "Lodomir"
+    ]
+  },
+  {
     "name": "KFC II",
-    "place": "2",
+    "place": "4",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -24,4 +46,4 @@
       "Lodomir"
     ]
   }
-] 
+]

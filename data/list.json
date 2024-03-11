@@ -12,19 +12,8 @@
     ]
   },
   {
-    "name": "intracranial aneurysm",
-    "place": "2",
-    "id": "759",
-    "creators": "soda",
-    "verifier": "soda",
-    "video": "https://youtu.be/9LmSpc2LimM?si=mEzqpKfVWQ-RuH_K",
-    "victors": [
-      "soda"
-    ]
-  },
-  {
     "name": "KFC II",
-    "place": "3",
+    "place": "2",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -35,4 +24,4 @@
       "Lodomir"
     ]
   }
-]
+] 

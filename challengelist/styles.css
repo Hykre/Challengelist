@@ -1,0 +1,140 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+header {
+  background-color: hsl(0, 0%, 39%);
+  padding: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 35px auto 0;
+  padding: 20px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #eeeeee;
+  z-index: 1000;
+}
+
+.navbar-logo a {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.navbar-logo img {
+  width: 32px;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-title {
+  color: #727272;
+  font-weight: bold;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.navbar-buttons {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.navbar-buttons a {
+  color: #535353;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.navbar-buttons a:hover {
+  text-decoration: none !important;
+  background-color: #cfcfcf;
+}
+
+.level-card {
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: #eeeeee;
+  box-shadow: 0 0 10px rgba(161, 161, 161, 0.5);
+}
+
+.thumbnail {
+  margin-right: 20px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.thumbnail img {
+  width: 248px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.details h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #414141;
+  cursor: pointer;
+}
+
+.details p {
+  margin: 3px 0;
+  color: #3d3d3d;
+  cursor: pointer;
+}
+
+.details a {
+  color: #252525;
+  text-decoration: none;
+}
+
+.details a:hover {
+  text-decoration: underline;
+}
+
+.navbar-buttons a:nth-child(1),
+.navbar-buttons a:nth-child(2) {
+  color: #535353;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.navbar-buttons a:nth-child(1):hover,
+.navbar-buttons a:nth-child(2):hover {
+  text-decoration: underline;
+}

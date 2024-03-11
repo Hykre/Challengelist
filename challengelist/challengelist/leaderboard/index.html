@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <title>ClassiDash Leaderboard</title>
+</head>
+<body>
+<header>
+  <div class="navbar">
+    <div class="navbar-logo">
+      <a href="https://classidash.fun">
+        <img src="favicon.ico" alt="Logo">
+        <div class="navbar-title">
+          ClassiDash Leaderboard
+        </div>
+      </a>
+    </div>
+    <div class="navbar-buttons">
+      <a href="/challengelist/">Challengelist</a>
+      <a href="/challengelist/leaderboard/">Leaderboard</a>
+      <a href="/submit" target="_blank">Submit</a>
+    </div>
+  </div>
+  <div class="modal-overlay" id="modalOverlay"></div>
+  <div class="modal-content" id="modalContent">
+      <h2 id="playerHeader"></h2>
+    <div class="modal-body">
+      <img src="" alt="Player Icon" id="playerIcon">
+      <p id="playerDetails"></p>
+    </div>
+  </div>
+</header>
+
+<div id="app"></div>
+
+<script src="/challengelist/leaderboard/script.js?v=1"></script>
+</body>
+</html>

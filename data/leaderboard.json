@@ -1,7 +1,11 @@
 [
   {
     "player": "Lodomir",
-    "points": 543
+    "points": 512
+  },
+  {
+    "player": "Hykre",
+    "points": 264
   },
   {
     "player": "hexeract",
@@ -12,11 +16,15 @@
     "points": 208
   },
   {
-    "player": "Shadow",
-    "points": 156
+    "player": "gdturek",
+    "points": 139
   },
   {
-    "player": "Hykre",
-    "points": 156
+    "player": "Neppo",
+    "points": 139
+  },
+  {
+    "player": "Shadow",
+    "points": 125
   }
 ]

@@ -34,8 +34,21 @@
     ]
   },
   {
+    "name": "Sorry N-word",
+    "place": "5",
+    "id": "910",
+    "creators": "gdturek",
+    "verifier": "gdturek",
+    "video": "https://www.youtube.com/watch?v=vze2CZFFqsg&feature=youtu.be",
+    "victors": [
+      "gdturek",
+      "Neppo",
+      "Hykre"
+    ]
+  },
+  {
     "name": "KFC II",
-    "place": "4",
+    "place": "6",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -45,14 +58,5 @@
       "Hykre",
       "Lodomir"
     ]
-  },
-  {
-    "name": "Sorry N-word",
-    "place": "4",
-    "id": "910",
-    "creators": "gdturek",
-    "verifier": "gdturek",
-    "video": "https://youtu.be/vze2CZFFqsg",
-    "victors": []
   }
 ]

@@ -72,8 +72,19 @@
     ]
   },
   {
+    "name": "Unnamed 01",
+    "place": "7",
+    "id": "1409",
+    "creators": "Hykre",
+    "verifier": "Hykre",
+    "video": "https://youtu.be/u5DOd7VbMp8",
+    "victors": [
+      "Hykre"
+    ]
+  },
+  {
     "name": "Sorry N-word",
-    "place": "8",
+    "place": "9",
     "id": "910",
     "creators": "gdturek",
     "verifier": "gdturek",
@@ -88,7 +99,7 @@
   },
   {
     "name": "KFC II",
-    "place": "9",
+    "place": "10",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",

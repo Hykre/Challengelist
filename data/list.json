@@ -85,22 +85,25 @@
   },
   {
     "name": "Sorry N-word",
-    "place": "9",
+    "place": "8",
     "id": "910",
     "creators": "gdturek",
     "verifier": "gdturek",
-    "video": "https://www.youtube.com/watch?v=vze2CZFFqsg&feature=youtu.be",
-    "victors": [
-      "gdturek",
-      "Neppo",
-      "Hykre",
-      "dachii",
-      "Jayxofc"
-    ]
+    "video": "https://youtu.be/vze2CZFFqsg?si=gkOwTIXslbe8aiIG",
+    "victors": []
   },
   {
     "name": "KFC II",
-    "place": "10",
+    "place": "9",
+    "id": "757",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://youtu.be/0dhVzOQCz7Q?si=ukWC_jnBTRv1U2iU",
+    "victors": []
+  },
+  {
+    "name": "KFC II",
+    "place": "12",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",

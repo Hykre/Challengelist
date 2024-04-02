@@ -19,7 +19,8 @@
     "video": "https://www.youtube.com/watch?v=Y2QOOfzQA-M",
     "victors": [
       "soley",
-      "Lodomir"
+      "Lodomir",
+      "Hykre"
     ]
   },
   {
@@ -34,8 +35,20 @@
     ]
   },
   {
-    "name": "peed into the weed",
+    "name": "chall chall burnt",
     "place": "4",
+    "id": "1153",
+    "creators": "zanyzang",
+    "verifier": "zanyzang",
+    "video": "https://www.youtube.com/watch?v=lKcIlVGy_bM",
+    "victors": [
+      "zanyzang",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "peed into the weed",
+    "place": "5",
     "id": "914",
     "creators": "gdturek",
     "verifier": "gdturek",
@@ -47,8 +60,20 @@
     ]
   },
   {
-    "name": "Sorry N-word",
+    "name": "Newareta",
     "place": "6",
+    "id": "1342",
+    "creators": "GDTurek",
+    "verifier": "GDTurek",
+    "video": "https://www.youtube.com/watch?v=cOGNn0uyOPI",
+    "victors": [
+      "GDTurek",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "Sorry N-word",
+    "place": "8",
     "id": "910",
     "creators": "gdturek",
     "verifier": "gdturek",
@@ -63,7 +88,7 @@
   },
   {
     "name": "KFC II",
-    "place": "7",
+    "place": "9",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",

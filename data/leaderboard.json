@@ -1,54 +1,62 @@
 [
   {
+    "player": "Hykre",
+    "points": 689
+  },
+  {
     "player": "Lodomir",
-    "points": 501
+    "points": 483
   },
   {
     "player": "dachii",
-    "points": 395
+    "points": 339
   },
   {
     "player": "Jayxofc",
-    "points": 395
-  },
-  {
-    "player": "gdturek",
-    "points": 281
+    "points": 339
   },
   {
     "player": "hexeract",
     "points": 250
   },
   {
-    "player": "Hykre",
-    "points": 239
+    "player": "gdturek",
+    "points": 243
   },
   {
     "player": "soley",
     "points": 208
   },
   {
-    "player": "Neppo",
+    "player": "zanyzang",
+    "points": 156
+  },
+  {
+    "player": "GDTurek",
     "points": 125
   },
   {
+    "player": "Neppo",
+    "points": 104
+  },
+  {
     "player": "Shadow",
-    "points": 114
+    "points": 96
   },
   {
     "player": "Gazra",
-    "points": 114
+    "points": 96
   },
   {
     "player": "ash",
-    "points": 114
+    "points": 96
   },
   {
     "player": "Sketchy",
-    "points": 114
+    "points": 96
   },
   {
     "player": "Meatballmoose",
-    "points": 114
+    "points": 96
   }
 ]

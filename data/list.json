@@ -1,7 +1,18 @@
 [
   {
-    "name": "Lucy",
+    "name": "Shook",
     "place": "1",
+    "id": "1516",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=JctNgIj4KQQ",
+    "victors": [
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "place": "2",
     "id": "766",
     "creators": "hexeract",
     "verifier": "hexeract",
@@ -13,16 +24,18 @@
   },
   {
     "name": "silent cave map",
-    "place": "2",
+    "place": "3",
     "id": "1466",
     "creators": "JaspGD",
     "verifier": "JaspGD",
     "video": "https://youtu.be/dqhcdPcetMI",
-    "victors": []
+    "victors": [
+      "JaspGD"
+    ]
   },
   {
     "name": "lost",
-    "place": "3",
+    "place": "4",
     "id": "279",
     "creators": "soley",
     "verifier": "soley",
@@ -36,7 +49,7 @@
   },
   {
     "name": "s0ley chall",
-    "place": "4",
+    "place": "5",
     "id": "230",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -48,7 +61,7 @@
   },
   {
     "name": "chall chall burnt",
-    "place": "5",
+    "place": "6",
     "id": "1153",
     "creators": "zanyzang",
     "verifier": "zanyzang",
@@ -62,20 +75,20 @@
   },
   {
     "name": "peed into the weed",
-    "place": "6",
+    "place": "7",
     "id": "914",
     "creators": "GDTurek",
     "verifier": "GDTurek",
     "video": "https://www.youtube.com/watch?v=WsAOAAseFYM",
     "victors": [
-      "gdturek",
+      "GDTurek",
       "dachii",
       "Jayxofc"
     ]
   },
   {
     "name": "Newareta",
-    "place": "7",
+    "place": "8",
     "id": "1342",
     "creators": "GDTurek",
     "verifier": "GDTurek",
@@ -90,7 +103,7 @@
   },
   {
     "name": "Unnamed 01",
-    "place": "8",
+    "place": "9",
     "id": "1409",
     "creators": "Hykre",
     "verifier": "Hykre",
@@ -103,7 +116,7 @@
   },
   {
     "name": "Sorry N-word",
-    "place": "9",
+    "place": "10",
     "id": "910",
     "creators": "GDTurek",
     "verifier": "GDTurek",
@@ -115,7 +128,7 @@
   },
   {
     "name": "new york",
-    "place": "10",
+    "place": "11",
     "id": "1412",
     "creators": "aceofspadesss",
     "verifier": "aceofspadesss",
@@ -128,7 +141,7 @@
   },
   {
     "name": "KFC II",
-    "place": "11",
+    "place": "12",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",

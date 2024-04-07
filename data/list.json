@@ -114,8 +114,21 @@
     ]
   },
   {
-    "name": "KFC II",
+    "name": "new york",
     "place": "10",
+    "id": "1412",
+    "creators": "aceofspadesss",
+    "verifier": "aceofspadesss",
+    "video": "https://www.youtube.com/watch?v=LLiJxvbBcBs",
+    "victors": [
+      "aceofspadesss",
+      "Shadow",
+      "Hykre"
+    ]
+  },
+  {
+    "name": "KFC II",
+    "place": "11",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",

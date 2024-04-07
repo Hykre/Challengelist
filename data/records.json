@@ -6,6 +6,12 @@
     "points": 250
   },
   {
+    "player": "Hykre",
+    "level": "Lucy",
+    "place": "1",
+    "points": 250
+  },
+  {
     "player": "soley",
     "level": "lost",
     "place": "3",
@@ -144,63 +150,81 @@
     "points": 96
   },
   {
+    "player": "aceofspadesss",
+    "level": "new york",
+    "place": "10",
+    "points": 89
+  },
+  {
     "player": "Shadow",
-    "level": "KFC II",
+    "level": "new york",
     "place": "10",
     "points": 89
   },
   {
     "player": "Hykre",
-    "level": "KFC II",
+    "level": "new york",
     "place": "10",
     "points": 89
+  },
+  {
+    "player": "Shadow",
+    "level": "KFC II",
+    "place": "11",
+    "points": 83
+  },
+  {
+    "player": "Hykre",
+    "level": "KFC II",
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Lodomir",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Gazra",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "ash",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Sketchy",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "dachii",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Meatballmoose",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "Jayxofc",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   },
   {
     "player": "CC15",
     "level": "KFC II",
-    "place": "10",
-    "points": 89
+    "place": "11",
+    "points": 83
   }
 ]

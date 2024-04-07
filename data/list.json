@@ -7,12 +7,22 @@
     "verifier": "hexeract",
     "video": "https://www.youtube.com/watch?v=Izy5jNs6Qf8",
     "victors": [
-      "hexeract"
+      "hexeract",
+      "Hykre"
     ]
   },
   {
-    "name": "lost",
+    "name": "silent cave map",
     "place": "2",
+    "id": "1466",
+    "creators": "JaspGD",
+    "verifier": "JaspGD",
+    "video": "https://youtu.be/dqhcdPcetMI",
+    "victors": []
+  },
+  {
+    "name": "lost",
+    "place": "3",
     "id": "279",
     "creators": "soley",
     "verifier": "soley",
@@ -26,30 +36,33 @@
   },
   {
     "name": "s0ley chall",
-    "place": "3",
+    "place": "4",
     "id": "230",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=5UKh2miNUbM",
     "victors": [
-      "Lodomir"
+      "Lodomir",
+      "Jayxofc"
     ]
   },
   {
     "name": "chall chall burnt",
-    "place": "4",
+    "place": "5",
     "id": "1153",
     "creators": "zanyzang",
     "verifier": "zanyzang",
     "video": "https://www.youtube.com/watch?v=lKcIlVGy_bM",
     "victors": [
       "zanyzang",
-      "Hykre"
+      "Hykre",
+      "Jayxofc",
+      "dachii"
     ]
   },
   {
     "name": "peed into the weed",
-    "place": "5",
+    "place": "6",
     "id": "914",
     "creators": "GDTurek",
     "verifier": "GDTurek",
@@ -62,41 +75,47 @@
   },
   {
     "name": "Newareta",
-    "place": "6",
+    "place": "7",
     "id": "1342",
     "creators": "GDTurek",
     "verifier": "GDTurek",
     "video": "https://www.youtube.com/watch?v=cOGNn0uyOPI",
     "victors": [
       "GDTurek",
-      "Hykre"
+      "Hykre",
+      "Jayxofc",
+      "CC15",
+      "dachii"
     ]
   },
   {
     "name": "Unnamed 01",
-    "place": "7",
+    "place": "8",
     "id": "1409",
     "creators": "Hykre",
     "verifier": "Hykre",
     "video": "https://youtu.be/u5DOd7VbMp8",
     "victors": [
-      "Hykre"
+      "Hykre",
+      "Jayxofc",
+      "dachii"
     ]
   },
   {
     "name": "Sorry N-word",
-    "place": "8",
+    "place": "9",
     "id": "910",
     "creators": "GDTurek",
     "verifier": "GDTurek",
     "video": "https://youtu.be/vze2CZFFqsg?si=gkOwTIXslbe8aiIG",
     "victors": [
-      "GDTurek"
+      "GDTurek",
+      "dachii"
     ]
   },
   {
     "name": "KFC II",
-    "place": "9",
+    "place": "10",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -110,7 +129,8 @@
       "Sketchy",
       "dachii",
       "Meatballmoose",
-      "Jayxofc"
+      "Jayxofc",
+      "CC15"
     ]
   }
 ]

@@ -8,7 +8,8 @@
     "video": "https://www.youtube.com/watch?v=Izy5jNs6Qf8",
     "victors": [
       "hexeract",
-      "Hykre"
+      "Hykre",
+      "blazenik"
     ]
   },
   {
@@ -18,7 +19,10 @@
     "creators": "JaspGD",
     "verifier": "JaspGD",
     "video": "https://youtu.be/dqhcdPcetMI",
-    "victors": []
+    "victors": [
+      "Oblivionus",
+      "Jayxofc"
+    ]
   },
   {
     "name": "lost",
@@ -31,7 +35,8 @@
       "soley",
       "Lodomir",
       "Hykre",
-      "Jayxofc"
+      "Jayxofc",
+      "Oblivionus"
     ]
   },
   {
@@ -43,7 +48,9 @@
     "video": "https://www.youtube.com/watch?v=5UKh2miNUbM",
     "victors": [
       "Lodomir",
-      "Jayxofc"
+      "Jayxofc",
+      "Oblivionus",
+      "CC15"
     ]
   },
   {
@@ -57,12 +64,24 @@
       "zanyzang",
       "Hykre",
       "Jayxofc",
-      "dachii"
+      "dachii",
+      "CC15",
+      "Oblivionus",
+      "CC15"
     ]
   },
   {
-    "name": "peed into the weed",
+    "name": "A VSC",
     "place": "6",
+    "id": "1526",
+    "creators": "ReShagi27",
+    "verifier": "ReShagi27",
+    "video": "https://youtu.be/0PyN-wRbjCc?si=uRBcGl4KmdTPOagW",
+    "victors": []
+  },
+  {
+    "name": "peed into the weed",
+    "place": "7",
     "id": "914",
     "creators": "GDTurek",
     "verifier": "GDTurek",
@@ -70,12 +89,14 @@
     "victors": [
       "gdturek",
       "dachii",
-      "Jayxofc"
+      "Jayxofc",
+      "Oblivionus",
+      "CC15"
     ]
   },
   {
     "name": "Newareta",
-    "place": "7",
+    "place": "8",
     "id": "1342",
     "creators": "GDTurek",
     "verifier": "GDTurek",
@@ -85,12 +106,15 @@
       "Hykre",
       "Jayxofc",
       "CC15",
-      "dachii"
+      "dachii",
+      "Oblivionus",
+      "Febz",
+      "xyzjake"
     ]
   },
   {
     "name": "Unnamed 01",
-    "place": "8",
+    "place": "9",
     "id": "1409",
     "creators": "Hykre",
     "verifier": "Hykre",
@@ -98,24 +122,35 @@
     "victors": [
       "Hykre",
       "Jayxofc",
-      "dachii"
+      "dachii",
+      "Oblivionus",
+      "Febz",
+      "Dammydagamer",
+      "CC15",
+      "capsalamii"
     ]
   },
   {
     "name": "Sorry N-word",
-    "place": "9",
+    "place": "10",
     "id": "910",
     "creators": "GDTurek",
     "verifier": "GDTurek",
     "video": "https://youtu.be/vze2CZFFqsg?si=gkOwTIXslbe8aiIG",
     "victors": [
       "GDTurek",
-      "dachii"
+      "dachii",
+      "Oblivionus",
+      "Febz",
+      "Jayxofc",
+      "Hykre",
+      "CC15",
+      "capsalamii"
     ]
   },
   {
     "name": "new york",
-    "place": "10",
+    "place": "11",
     "id": "1412",
     "creators": "aceofspadesss",
     "verifier": "aceofspadesss",
@@ -123,12 +158,16 @@
     "victors": [
       "aceofspadesss",
       "Shadow",
-      "Hykre"
+      "Hykre",
+      "Oblivionus",
+      "Febz",
+      "Jayxofc",
+      "capsalamii"
     ]
   },
   {
     "name": "KFC II",
-    "place": "11",
+    "place": "12",
     "id": "757",
     "creators": "Shadow",
     "verifier": "Shadow",
@@ -143,7 +182,11 @@
       "dachii",
       "Meatballmoose",
       "Jayxofc",
-      "CC15"
+      "CC15",
+      "Oblivionus",
+      "Febz",
+      "xyzjake",
+      "capsalamii"
     ]
   }
 ]

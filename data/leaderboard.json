@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "player": "Oblivionus",
     "points": 1246
   },
@@ -66,6 +67,50 @@
   {
     "player": "Dammydagamer",
     "points": 96
+=======
+    "player": "Hykre",
+    "points": 850
+  },
+  {
+    "player": "Jayxofc",
+    "points": 812
+  },
+  {
+    "player": "dachii",
+    "points": 606
+  },
+  {
+    "player": "Shadow",
+    "points": 411
+  },
+  {
+    "player": "Lodomir",
+    "points": 373
+  },
+  {
+    "player": "GDTurek",
+    "points": 307
+  },
+  {
+    "player": "hexeract",
+    "points": 208
+  },
+  {
+    "player": "CC15",
+    "points": 182
+  },
+  {
+    "player": "JaspGD",
+    "points": 179
+  },
+  {
+    "player": "soley",
+    "points": 156
+  },
+  {
+    "player": "zanyzang",
+    "points": 125
+>>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
   },
   {
     "player": "aceofspadesss",

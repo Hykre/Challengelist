@@ -1,7 +1,18 @@
 [
   {
-    "name": "Lucy",
+    "name": "Shook",
     "place": "1",
+    "id": "1516",
+    "creators": "Shadow",
+    "verifier": "Shadow",
+    "video": "https://www.youtube.com/watch?v=JctNgIj4KQQ",
+    "victors": [
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "place": "2",
     "id": "766",
     "creators": "hexeract",
     "verifier": "hexeract",
@@ -14,19 +25,23 @@
   },
   {
     "name": "silent cave map",
-    "place": "2",
+    "place": "3",
     "id": "1466",
     "creators": "JaspGD",
     "verifier": "JaspGD",
     "video": "https://youtu.be/dqhcdPcetMI",
     "victors": [
+<<<<<<< HEAD
       "Oblivionus",
       "Jayxofc"
+=======
+      "JaspGD"
+>>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
     ]
   },
   {
     "name": "lost",
-    "place": "3",
+    "place": "4",
     "id": "279",
     "creators": "soley",
     "verifier": "soley",
@@ -41,7 +56,7 @@
   },
   {
     "name": "s0ley chall",
-    "place": "4",
+    "place": "5",
     "id": "230",
     "creators": "Lodomir",
     "verifier": "Lodomir",
@@ -55,7 +70,7 @@
   },
   {
     "name": "chall chall burnt",
-    "place": "5",
+    "place": "6",
     "id": "1153",
     "creators": "zanyzang",
     "verifier": "zanyzang",
@@ -71,6 +86,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "name": "A VSC",
     "place": "6",
     "id": "1526",
@@ -80,6 +96,8 @@
     "victors": []
   },
   {
+=======
+>>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
     "name": "peed into the weed",
     "place": "7",
     "id": "914",
@@ -87,7 +105,7 @@
     "verifier": "GDTurek",
     "video": "https://www.youtube.com/watch?v=WsAOAAseFYM",
     "victors": [
-      "gdturek",
+      "GDTurek",
       "dachii",
       "Jayxofc",
       "Oblivionus",

@@ -24,24 +24,6 @@
     "points": 179
   },
   {
-    "player": "blazenik",
-    "level": "Lucy",
-    "place": "1",
-    "points": 250
-  },
-  {
-    "player": "Oblivionus",
-    "level": "silent cave map",
-    "place": "2",
-    "points": 208
-  },
-  {
-    "player": "Jayxofc",
-    "level": "silent cave map",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "soley",
     "level": "lost",
     "place": "4",
@@ -66,12 +48,6 @@
     "points": 156
   },
   {
-    "player": "Oblivionus",
-    "level": "lost",
-    "place": "3",
-    "points": 179
-  },
-  {
     "player": "Lodomir",
     "level": "s0ley chall",
     "place": "5",
@@ -84,18 +60,6 @@
     "points": 139
   },
   {
-    "player": "Oblivionus",
-    "level": "s0ley chall",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "CC15",
-    "level": "s0ley chall",
-    "place": "4",
-    "points": 156
-  },
-  {
     "player": "zanyzang",
     "level": "chall chall burnt",
     "place": "6",
@@ -104,55 +68,6 @@
   {
     "player": "Hykre",
     "level": "chall chall burnt",
-<<<<<<< HEAD
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "Jayxofc",
-    "level": "chall chall burnt",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "dachii",
-    "level": "chall chall burnt",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "CC15",
-    "level": "chall chall burnt",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "Oblivionus",
-    "level": "chall chall burnt",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "CC15",
-    "level": "chall chall burnt",
-    "place": "5",
-    "points": 139
-  },
-  {
-    "player": "gdturek",
-    "level": "peed into the weed",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "dachii",
-    "level": "peed into the weed",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "Jayxofc",
-=======
     "place": "6",
     "points": 125
   },
@@ -170,15 +85,11 @@
   },
   {
     "player": "GDTurek",
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
     "level": "peed into the weed",
     "place": "7",
     "points": 114
   },
   {
-<<<<<<< HEAD
-    "player": "Oblivionus",
-=======
     "player": "dachii",
     "level": "peed into the weed",
     "place": "7",
@@ -186,7 +97,6 @@
   },
   {
     "player": "Jayxofc",
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
     "level": "peed into the weed",
     "place": "7",
     "points": 114
@@ -211,78 +121,12 @@
   },
   {
     "player": "CC15",
-<<<<<<< HEAD
-    "level": "peed into the weed",
-    "place": "7",
-    "points": 114
-=======
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
-  },
-  {
-    "player": "GDTurek",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Hykre",
-<<<<<<< HEAD
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "CC15",
     "level": "Newareta",
     "place": "8",
     "points": 104
   },
   {
     "player": "dachii",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-=======
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "dachii",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
-  },
-  {
-    "player": "Oblivionus",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Febz",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "xyzjake",
     "level": "Newareta",
     "place": "8",
     "points": 104
@@ -301,36 +145,6 @@
   },
   {
     "player": "dachii",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "Oblivionus",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "Febz",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "Dammydagamer",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "CC15",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "capsalamii",
     "level": "Unnamed 01",
     "place": "9",
     "points": 96
@@ -346,45 +160,6 @@
     "level": "Sorry N-word",
     "place": "10",
     "points": 89
-<<<<<<< HEAD
-  },
-  {
-    "player": "Oblivionus",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "Febz",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "Hykre",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "CC15",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "capsalamii",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-=======
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
   },
   {
     "player": "aceofspadesss",
@@ -405,31 +180,6 @@
     "points": 83
   },
   {
-<<<<<<< HEAD
-    "player": "Oblivionus",
-    "level": "new york",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "Febz",
-    "level": "new york",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "Jayxofc",
-    "level": "new york",
-    "place": "11",
-    "points": 83
-  },
-  {
-    "player": "capsalamii",
-    "level": "new york",
-    "place": "11",
-    "points": 83
-  },
-  {
     "player": "Shadow",
     "level": "KFC II",
     "place": "12",
@@ -484,92 +234,9 @@
     "points": 78
   },
   {
-=======
-    "player": "Shadow",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Hykre",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Lodomir",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Gazra",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "ash",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Sketchy",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "dachii",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Meatballmoose",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Jayxofc",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
     "player": "CC15",
     "level": "KFC II",
     "place": "12",
     "points": 78
-<<<<<<< HEAD
-  },
-  {
-    "player": "Oblivionus",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "Febz",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "xyzjake",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-  },
-  {
-    "player": "capsalamii",
-    "level": "KFC II",
-    "place": "12",
-    "points": 78
-=======
->>>>>>> e6d6f4498534e173824d886ac966ba8205bbc1cd
   }
 ]

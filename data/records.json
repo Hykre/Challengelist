@@ -1,242 +1,152 @@
 [
   {
     "player": "Shadow",
-    "level": "Shook",
+    "level": "B L O O M",
     "place": "1",
     "points": 250
   },
   {
-    "player": "hexeract",
-    "level": "Lucy",
-    "place": "2",
-    "points": 208
-  },
-  {
     "player": "Hykre",
-    "level": "Lucy",
+    "level": "Deep End",
     "place": "2",
     "points": 208
   },
   {
-    "player": "JaspGD",
-    "level": "silent cave map",
+    "player": "Shadow",
+    "level": "Shook",
     "place": "3",
     "points": 179
   },
   {
+    "player": "hexeract",
+    "level": "Lucy",
+    "place": "4",
+    "points": 156
+  },
+  {
+    "player": "Hykre",
+    "level": "Lucy",
+    "place": "4",
+    "points": 156
+  },
+  {
     "player": "soley",
     "level": "lost",
-    "place": "4",
-    "points": 156
+    "place": "5",
+    "points": 139
   },
   {
     "player": "Lodomir",
     "level": "lost",
-    "place": "4",
-    "points": 156
+    "place": "5",
+    "points": 139
   },
   {
     "player": "Hykre",
     "level": "lost",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "Jayxofc",
-    "level": "lost",
-    "place": "4",
-    "points": 156
-  },
-  {
-    "player": "Lodomir",
-    "level": "s0ley chall",
     "place": "5",
     "points": 139
   },
   {
     "player": "Jayxofc",
-    "level": "s0ley chall",
+    "level": "lost",
     "place": "5",
     "points": 139
   },
   {
-    "player": "zanyzang",
-    "level": "chall chall burnt",
+    "player": "JaspGD",
+    "level": "silent cave map",
     "place": "6",
     "points": 125
   },
   {
-    "player": "Hykre",
-    "level": "chall chall burnt",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "Jayxofc",
-    "level": "chall chall burnt",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "dachii",
-    "level": "chall chall burnt",
-    "place": "6",
-    "points": 125
-  },
-  {
-    "player": "GDTurek",
-    "level": "peed into the weed",
-    "place": "7",
-    "points": 114
-  },
-  {
-    "player": "dachii",
-    "level": "peed into the weed",
+    "player": "Lodomir",
+    "level": "s0ley chall",
     "place": "7",
     "points": 114
   },
   {
     "player": "Jayxofc",
-    "level": "peed into the weed",
+    "level": "s0ley chall",
     "place": "7",
     "points": 114
-  },
-  {
-    "player": "GDTurek",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Hykre",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "CC15",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "dachii",
-    "level": "Newareta",
-    "place": "8",
-    "points": 104
-  },
-  {
-    "player": "Hykre",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "Jayxofc",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "dachii",
-    "level": "Unnamed 01",
-    "place": "9",
-    "points": 96
-  },
-  {
-    "player": "GDTurek",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
-  },
-  {
-    "player": "dachii",
-    "level": "Sorry N-word",
-    "place": "10",
-    "points": 89
   },
   {
     "player": "aceofspadesss",
     "level": "new york",
-    "place": "11",
-    "points": 83
+    "place": "8",
+    "points": 104
   },
   {
     "player": "Shadow",
     "level": "new york",
-    "place": "11",
-    "points": 83
+    "place": "8",
+    "points": 104
   },
   {
     "player": "Hykre",
     "level": "new york",
-    "place": "11",
-    "points": 83
+    "place": "8",
+    "points": 104
   },
   {
     "player": "Shadow",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Hykre",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Lodomir",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Gazra",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "ash",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Sketchy",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "dachii",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Meatballmoose",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "Jayxofc",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   },
   {
     "player": "CC15",
     "level": "KFC II",
-    "place": "12",
-    "points": 78
+    "place": "9",
+    "points": 96
   }
 ]

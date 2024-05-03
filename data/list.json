@@ -1,8 +1,30 @@
 [
   {
-    "name": "Shook",
+    "name": "B L O O M",
     "place": "1",
-    "id": "1516",
+    "id": "47",
+    "creators": "JaspGD",
+    "verifier": "JaspGD",
+    "video": "https://www.youtube.com/watch?v=VS3m3mdz8y8",
+    "victors": [
+      "Shadow"
+    ]
+  },
+  {
+    "name": "Deep End",
+    "place": "2",
+    "id": "48",
+    "creators": "Shadow",
+    "verifier": "Hykre",
+    "video": "https://youtu.be/u3qVXH9plK4",
+    "victors": [
+      "Hykre"
+    ]
+  },
+  {
+    "name": "Shook",
+    "place": "3",
+    "id": "38",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=JctNgIj4KQQ",
@@ -12,8 +34,8 @@
   },
   {
     "name": "Lucy",
-    "place": "2",
-    "id": "766",
+    "place": "4",
+    "id": "39",
     "creators": "hexeract",
     "verifier": "hexeract",
     "video": "https://www.youtube.com/watch?v=Izy5jNs6Qf8",
@@ -22,21 +44,10 @@
       "Hykre"
     ]
   },
-  {
-    "name": "silent cave map",
-    "place": "3",
-    "id": "1466",
-    "creators": "JaspGD",
-    "verifier": "JaspGD",
-    "video": "https://youtu.be/dqhcdPcetMI",
-    "victors": [
-      "JaspGD"
-    ]
-  },
-  {
+    {
     "name": "lost",
-    "place": "4",
-    "id": "279",
+    "place": "5",
+    "id": "40",
     "creators": "soley",
     "verifier": "soley",
     "video": "https://www.youtube.com/watch?v=Y2QOOfzQA-M",
@@ -48,9 +59,20 @@
     ]
   },
   {
+    "name": "silent cave map",
+    "place": "6",
+    "id": "49",
+    "creators": "JaspGD",
+    "verifier": "JaspGD",
+    "video": "https://youtu.be/dqhcdPcetMI",
+    "victors": [
+      "JaspGD"
+    ]
+  },
+  {
     "name": "s0ley chall",
-    "place": "5",
-    "id": "230",
+    "place": "7",
+    "id": "41",
     "creators": "Lodomir",
     "verifier": "Lodomir",
     "video": "https://www.youtube.com/watch?v=5UKh2miNUbM",
@@ -60,76 +82,9 @@
     ]
   },
   {
-    "name": "chall chall burnt",
-    "place": "6",
-    "id": "1153",
-    "creators": "zanyzang",
-    "verifier": "zanyzang",
-    "video": "https://www.youtube.com/watch?v=lKcIlVGy_bM",
-    "victors": [
-      "zanyzang",
-      "Hykre",
-      "Jayxofc",
-      "dachii"
-    ]
-  },
-  {
-    "name": "peed into the weed",
-    "place": "7",
-    "id": "914",
-    "creators": "GDTurek",
-    "verifier": "GDTurek",
-    "video": "https://www.youtube.com/watch?v=WsAOAAseFYM",
-    "victors": [
-      "GDTurek",
-      "dachii",
-      "Jayxofc"
-    ]
-  },
-  {
-    "name": "Newareta",
-    "place": "8",
-    "id": "1342",
-    "creators": "GDTurek",
-    "verifier": "GDTurek",
-    "video": "https://www.youtube.com/watch?v=cOGNn0uyOPI",
-    "victors": [
-      "GDTurek",
-      "Hykre",
-      "Jayxofc",
-      "CC15",
-      "dachii"
-    ]
-  },
-  {
-    "name": "Unnamed 01",
-    "place": "9",
-    "id": "1409",
-    "creators": "Hykre",
-    "verifier": "Hykre",
-    "video": "https://youtu.be/u5DOd7VbMp8",
-    "victors": [
-      "Hykre",
-      "Jayxofc",
-      "dachii"
-    ]
-  },
-  {
-    "name": "Sorry N-word",
-    "place": "10",
-    "id": "910",
-    "creators": "GDTurek",
-    "verifier": "GDTurek",
-    "video": "https://youtu.be/vze2CZFFqsg?si=gkOwTIXslbe8aiIG",
-    "victors": [
-      "GDTurek",
-      "dachii"
-    ]
-  },
-  {
     "name": "new york",
-    "place": "11",
-    "id": "1412",
+    "place": "8",
+    "id": "42",
     "creators": "aceofspadesss",
     "verifier": "aceofspadesss",
     "video": "https://www.youtube.com/watch?v=LLiJxvbBcBs",
@@ -141,8 +96,8 @@
   },
   {
     "name": "KFC II",
-    "place": "12",
-    "id": "757",
+    "place": "9",
+    "id": "43",
     "creators": "Shadow",
     "verifier": "Shadow",
     "video": "https://www.youtube.com/watch?v=0dhVzOQCz7Q",
@@ -160,3 +115,4 @@
     ]
   }
 ] 
+ 

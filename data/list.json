@@ -1,24 +1,24 @@
 [
   {
-    "name": "B L O O M",
-    "place": "1",
-    "id": "47",
-    "creators": "JaspGD",
-    "verifier": "JaspGD",
-    "video": "https://www.youtube.com/watch?v=VS3m3mdz8y8",
-    "victors": [
-      "Shadow"
-    ]
-  },
-  {
     "name": "Deep End",
-    "place": "2",
+    "place": "1",
     "id": "48",
     "creators": "Shadow",
     "verifier": "Hykre",
     "video": "https://youtu.be/u3qVXH9plK4",
     "victors": [
       "Hykre"
+    ]
+  },
+  {
+    "name": "B L O O M",
+    "place": "2",
+    "id": "47",
+    "creators": "JaspGD",
+    "verifier": "JaspGD",
+    "video": "https://www.youtube.com/watch?v=VS3m3mdz8y8",
+    "victors": [
+      "Shadow"
     ]
   },
   {
@@ -115,4 +115,3 @@
     ]
   }
 ] 
- 
